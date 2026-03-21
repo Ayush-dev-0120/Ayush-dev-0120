@@ -1,99 +1,88 @@
+<!-- ================= HEADER ================= -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ayushpanchal/ayushpanchal/main/banner.png" alt="Ayush Panchal - Full Stack & AI Engineer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,100:00D9FF&height=200&section=header&text=Ayush%20Panchal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <h1 align="center">
   <a href="https://ayushpanchal.com">
-    <img src="https://readme-typing-svg.demolab.io?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Ayush+Panchal;Full+Stack+Developer;AI+Systems+Engineer;SaaS+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.io?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=Ayush+Panchal;Full+Stack+Developer;AI+Systems+Engineer;SaaS+Architect" alt="Typing Animation" />
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://ayushpanchal.com"><img src="https://img.shields.io/badge/Portfolio-%2300D9FF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0e27"></a>
-  <a href="https://linkedin.com/in/ayushpanchal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"></a>
-  <a href="https://twitter.com/ayushpanchal" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0e27"></a>
+  <a href="https://ayushpanchal.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0e27" />
+  </a>
+  <a href="https://github.com/Ayush-dev-0120">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" />
+  </a>
 </p>
 
 ---
 
 ## 🎯 About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif" alt="Coder" width="350">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif" width="300"/>
 
-- 💡 Building **scalable SaaS systems** with AI at their core
-- 🤖 Architect of **intelligent chatbot systems** and LLM integrations
-- 🏗️ Specialized in **multi-tenant architecture** & event-driven microservices
-- 🚀 Currently crafting a **next-gen AI-powered CRM platform**
-- 🌐 Full-time builder | Open to **collaborations** and **consulting**
-- 📍 Based in India | Working **globally**
+* 💡 Building **scalable SaaS systems powered by AI**
+* 🤖 Creating **LLM-based intelligent assistants**
+* 🏗️ Expert in **multi-tenant architecture & microservices**
+* 🚀 Currently building an **AI-powered CRM platform**
+* 🌍 Based in India, building for global scale
 
-> *"Building the future with code, AI, and relentless focus on scalability."*
+> ⚡ *"I don’t just write code — I architect systems that scale."*
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-</p>
+
+![Next JS](https://img.shields.io/badge/Next.js-000?style=flat-square\&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter)
 
 ### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
 
-### 🤖 AI & ML
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs)
 
-### 🔧 Systems & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=nats&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+### 🤖 AI / ML
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch)
+
+### 🔧 Systems
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **🏢 AI-Powered CRM** | Multi-tenant SaaS platform with intelligent customer insights & automation | NestJS • Next.js • PostgreSQL • OpenAI |
-| **🤖 Smart Chatbot** | Conversational AI assistant with context awareness & intent recognition | Python • PyTorch • FastAPI • Redis |
-| **🌐 Portfolio Site** | Personal brand with interactive AI integration & real-time analytics | Next.js • Tailwind • Vercel |
-
-</div>
+| Project                  | Description                                          |
+| ------------------------ | ---------------------------------------------------- |
+| 🏢 **AI CRM Platform**   | Multi-tenant SaaS CRM with AI automation             |
+| 🤖 **AI Chatbot**        | Intelligent assistant with memory & intent detection |
+| 🌐 **Portfolio Website** | AI-powered personal site with modern UI              |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-dev-0120&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&line_height=27" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush-dev-0120&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-dev-0120&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-dev-0120&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ayush-dev-0120&theme=tokyo-night&hide_border=true&border_radius=8" alt="Contribution Graph" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-dev-0120&theme=tokyo-night" width="95%" />
 </p>
 
 ---
@@ -101,30 +90,30 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=Ayush-dev-0120&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-dev-0120&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://ayushpanchal.com">
-    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-%2300D9FF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Ayush-dev-0120">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Profile-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Ayush-dev-0120&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
-  
-  <h3>✨ Let's build something extraordinary together ✨</h3>
-  
-  <p><i>Full Stack • AI Systems • Scalable Architecture</i></p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush-dev-0120&label=Profile+Views&color=00D9FF&style=flat-square" />
+</p>
+
+<p align="center">
+  ✨ Building scalable systems with AI • SaaS • Clean Architecture ✨
+</p>
+
+<!-- ================= END ================= -->
