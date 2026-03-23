@@ -8,10 +8,11 @@
   <!-- 🖼️ Banner -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8a21a8b3-341b-4577-9179-5277433dadd9" width="100%" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;SaaS+%26+Multi-Tenant+Systems;Flutter+%7C+Node.js+%7C+System+Design;Building+Real-World+Scalable+Products" />
+
 </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;SaaS+%26+Multi-Tenant+Systems;Flutter+%7C+Node.js+%7C+System+Design;Building+Real-World+Scalable+Products" />
-
+ 
 
 <!-- <p align="center">
   <img src="https://ayushpanchal.com/assets/Ayush-Cmdesmce.png" width="180" style="border-radius:500%;" />
