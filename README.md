@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://ayushpanchal.com/assets/Ayush-Cmdesmce.png" width="180" style="border-radius:50%;" />
+  <img src="https://ayushpanchal.com/assets/Ayush-Cmdesmce.png" width="180" style="border-radius:500%;" />
 </p>
 </div>
 
