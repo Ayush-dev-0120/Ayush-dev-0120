@@ -5,13 +5,17 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C7,50:6A00FF,100:00FFF7&height=220&section=header&text=Ayush%20Panchal&fontSize=60&fontColor=F8F8FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20System%20Design&descAlignY=55&descSize=18" />
 
   <!-- 💻 Typing Animation -->
+  <!-- 🖼️ Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a21a8b3-341b-4577-9179-5277433dadd9" width="100%" />
+</p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;SaaS+%26+Multi-Tenant+Systems;Flutter+%7C+Node.js+%7C+System+Design;Building+Real-World+Scalable+Products" />
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ayushpanchal.com/assets/Ayush-Cmdesmce.png" width="180" style="border-radius:500%;" />
-</p>
+</p> -->
 </div>
 
 <br>
